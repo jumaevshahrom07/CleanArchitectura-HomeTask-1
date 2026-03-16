@@ -3,7 +3,7 @@ namespace Infrastructure.Services;
 
 public class DepartmentServices
 {
-        private List<Department> departments = new List<Department>();
+    private List<Department> departments = new List<Department>();
 
     public List<Department> GetDepartments()
     {
